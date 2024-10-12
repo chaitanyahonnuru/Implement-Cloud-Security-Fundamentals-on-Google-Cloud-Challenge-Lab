@@ -1,0 +1,10 @@
+export CUSTOM_ROLE=
+export S_A=
+export CLUSTER=
+export ZONE=
+
+curl -LO raw.githubusercontent.com/chaitanyahonnuru/Implement-Cloud-Security-Fundamentals-on-Google-Cloud-Challenge-Lab/refs/heads/main/ICSFGC.sh
+
+sudo chmod +x ICSFGC.sh
+
+./ICSFGC.sh
